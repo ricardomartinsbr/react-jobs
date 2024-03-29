@@ -149,3 +149,6 @@ dist-ssr
 *.sln
 *.sw?
 >>>>>>> b8c409e (primeiro commit)
+
+#Arquivo de config pretier
+.pretierrc
